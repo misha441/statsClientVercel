@@ -34,7 +34,7 @@
       "react-app/jest"
     ]
   },
-  "proxy": "https://stats-app-server.vercel.app/",
+  "proxy": "https://statsappserver.up.railway.app/",
   "browserslist": {
     "production": [
       ">0.2%",

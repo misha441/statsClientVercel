@@ -1,1 +1,1 @@
-export const API_URL = "https://stats-app-server.vercel.app/"
+export const API_URL = "https://statsappserver.up.railway.app/"
